@@ -4,8 +4,8 @@
 }
 
 body {
-    font-family: Helvetica; ariel;
-    line-height: 1.6;
+    font-family: Helvetica;
+    line-height: 5 px;
 }
 
 header,footer {
@@ -14,7 +14,7 @@ header,footer {
     text-align: center;
     padding: 10px;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 24 px;
 }
 
 main {
@@ -24,13 +24,13 @@ main {
 }
 
 h1 {
-    margin: 10px
-    text-align: center;
+    margin: 16px
+    text-align; center
 }
 
 h2 {
-    border-bottom: 1px solid #222;    
-    font-size: 1.25rem;
+    border-bottom: 1px; solid #222222;    
+    font-size: 16px;
 }
 
 ul {
@@ -47,8 +47,8 @@ section {
     border: 1px solid rgb(0 0 0 / 20%);
     padding: 10px 15px;
     background-color: #888999;
-    font-size: 1rem;
+    font-size: 10px;
 
-footer {
-    font-size: .9rem
+footer {        
+    font-size: 12px;
 }
